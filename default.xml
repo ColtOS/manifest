@@ -508,5 +508,4 @@
   <include name="snippets/cm.xml" />
   
   <include name="snippets/colt.xml" />
-
-<manifest>
+</manifest>

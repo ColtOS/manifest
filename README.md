@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ColtOS/manifest/raw/cos7.x/colt_logo.png" width="300px" height="300px" > 
+<img src="https://github.com/ColtOS/manifest/raw/cos7.x/colt_logo.png" > 
 </p>
 
 Colt-OS Project
@@ -10,7 +10,7 @@ other roms/projects and we are very thankfull to them!!
 
 
 -------
-* [**LineageOS/Cyanogenmod**](https://github.com/LineageOS
+* [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)
 * [**crDroid**](https://github.com/crdroidandroid)
 * [**DirtyUnicorns**](https://github.com/DirtyUnicorns)
 * [**AOSiP**](https://github.com/AOSIP)

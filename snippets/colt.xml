@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- ColtOS Repos -->
+
+<project path="android" name="ColtOS/manifest" remote="coltos" />
+<project path="build" name="ColtOS/android_build" remote="coltos" >
+  <copyfile src="core/root.mk" dest="Makefile" />
+
+</project>
+
+<project path="frameworks/base" name="ColtOS/android_frameworks_base" remote="coltos" />
+<project path="frameworks/native" name="ColtOS/android_frameworks_native" remote="coltos" />
+<project path="packages/apps/Contacts" name="ColtOS/android_packages_apps_Contacts" remote="coltos" />
+<project path="packages/apps/ContactsCommon" name="ColtOS/android_packages_apps_ContactsCommon" remote="coltos" />
+<project path="packages/apps/Dialer" name="ColtOS/android_packages_apps_Dialer" remote="coltos" />
+<project path="packages/apps/ExactCalculator" name="ColtOS/android_packages_apps_ExactCalculator" remote="coltos" />
+<project path="packages/apps/PackageInstaller" name="ColtOS/android_packages_apps_PackageInstaller" remote="coltos" />
+<project path="packages/apps/PhoneCommon" name="ColtOS/android_packages_apps_PhoneCommon" remote="coltos" />
+<project path="packages/apps/Settings" name="ColtOS/android_packages_apps_Settings" remote="coltos" />
+<project path="system/sepolicy" name="ColtOS/android_system_sepolicy" remote="coltos" />
+<project path="vendor/cm" name="ColtOS/android_vendor_colt" remote="coltos" />
+<project path="packages/apps/SetupWizard" name="ColtOS/Colt_SetupWizard" remote="coltos" />
+<project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" />
+
+<!-- Track ThemeInterfacer -->
+<project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+
+</manifest>

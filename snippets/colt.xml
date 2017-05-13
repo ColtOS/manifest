@@ -21,7 +21,7 @@
 <project path="system/sepolicy" name="ColtOS/android_system_sepolicy" remote="coltos" />
 <project path="vendor/cm" name="ColtOS/android_vendor_colt" remote="coltos" />
 <project path="packages/apps/SetupWizard" name="ColtOS/Colt_SetupWizard" remote="coltos" />
-<project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" />
+<!--project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" /-->
 
 <!-- Track ThemeInterfacer -->
 <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />

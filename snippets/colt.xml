@@ -25,9 +25,11 @@
 <project path="packages/apps/CMParts" name="ColtOS/android_packages_apps_CMParts" remote="coltos" />
 
 <!-- DUI from Colt -->
-
 <project path="packages/apps/DUI" name="ColtOS/android_packages_apps_DUI" remote="coltos" />
 <project path="external/DUtils" name="ColtOS/android_external_DUtils" remote="coltos" />
+
+<!-- Omni from Colt -->
+<project path="packages/apps/OmniStyle" name="ColtOS/android_packages_apps_OmniStyle" remote="coltos" />
 
 <!-- Track ThemeInterfacer -->
 <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />

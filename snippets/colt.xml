@@ -31,6 +31,10 @@
 <!-- Omni from Colt -->
 <project path="packages/apps/OmniStyle" name="ColtOS/android_packages_apps_OmniStyle" remote="coltos" />
 
+<!-- Colt Wallpapers  -->
+
+<project path="packages/apps/ColtWallpapers" name="ColtOS/android_packages_apps_ColtWallpapers" remote="coltos" />
+
 <!-- Track ThemeInterfacer -->
 <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 

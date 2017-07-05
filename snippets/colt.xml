@@ -35,6 +35,12 @@
 
 <project path="packages/apps/ColtWallpapers" name="ColtOS/android_packages_apps_ColtWallpapers" remote="coltos" />
 
+<!-- Colt Telephony and cmsdk  -->
+
+<project path="packages/services/Telephony" name="ColtOS/android_packages_services_Telephony" remote="coltos" />
+
+<project path="vendor/cmsdk" name="ColtOS/android_vendor_cmsdk" remote="coltos" />
+
 <!-- Track ThemeInterfacer -->
 <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 

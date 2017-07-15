@@ -44,4 +44,7 @@
 <!-- Track ThemeInterfacer -->
 <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 
+<!-- Track OmniJaws -->
+<project path="packages/services/OmniJaws" name="ColtOS/android_packages_services_OmniJaws" remote="coltos" />
+
 </manifest>

@@ -34,7 +34,7 @@
 
 <!-- Colt Wallpapers  -->
 
-<project path="packages/apps/ColtWallpapers" name="ColtOS/android_packages_apps_ColtWallpapers" remote="coltos" />
+<project path="packages/apps/ColtPapers" name="ColtOS/android_packages_apps_ColtWallpapers" remote="coltos" />
 
 <!-- Colt Telephony and cmsdk  -->
 

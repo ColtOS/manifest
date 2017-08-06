@@ -1,0 +1,196 @@
+[CENTER][IMG]https://github.com/ColtOS/manifest/blob/cos7.x/Banner.jpg?raw=true[/CENTER][/IMG]
+
+[SIZE="5"]About Us:[/SIZE]
+[LEFT]ColtOS Project is presented by a team of learners and it is crafted from lineage Source with optimal but all the necessary customisations. We have cherry-picked the features from many other roms/projects and we are very thankful to them!! The OS is still in beta phase and growing like a vine. So, although there are no remarkable bugs experienced, if you find any, please let us know with a logcat.[/LEFT]
+
+
+[SIZE="5"]Flashing Instructions:[/SIZE]
+[HIDE]
+
+[SIZE="4"]- [B]Verify that you're using the latest version of TWRP [/B]
+
+- [B]Perform a FULL WIPE as described below if coming from another ROM or a different version of Android[/B]
+(A full wipe is when you wipe system/data/cache)
+
+- [B]Flash the latest version of the ROM[/B]
+
+- [B]Flash recommended GAPPS linked below[/B]
+
+- [B]Flash Magisk if you want root[/B]
+
+- [B]Reboot and ENJOY!![/B][/SIZE]
+
+
+**[B][COLOR="Red"][SIZE="3"]If you fail to follow these instructions, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+
+**[B][COLOR="Red"][SIZE="3"]If you use Xposed, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+
+**[B][COLOR="Red"][SIZE="3"]If you use another kernel, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+[/HIDE]
+
+
+[SIZE="5"]Feature list:[/SIZE]
+[CODE]
+[B]Colt V1.0 [/B]
+[COLOR="#1976D2"][U]General[/U][/COLOR]
+* Android 7.1.2_r27 (NJH47D)
+* Security update: 05 July 2017
+
+[COLOR="#1976D2"][U]Display[/U][/COLOR]
+* Adaptive brightness
+* LiveDisplay
+* Dark/ Light theme
+* Ambient display
+* Theme (PA Color Engine)
+* Colorful Colt Wallpapers (Under wallpapers)
+
+[COLOR="#1976D2"][U]Sound[/U][/COLOR]
+* Increasing ring volume
+* Custom made default ringtone
+* Charging sounds (under Other sounds)
+
+[COLOR="#1976D2"][B][U][SIZE="2"]>>> Colt Center (Our Customisations app) includes <<<[/SIZE][/U][/B][/COLOR]
+[COLOR="#1976D2"][U]Status bar[/U][/COLOR]
+* Carrier Label (with text size and custom color)
+* Network Traffic
+* Battery Customizations (Battery bar, Style, Pecentage)
+* Status bar icons
+* Clock and date settings
+* Full screen alram
+* Quick pulldown
+* Brightness Control
+* Roaming indicator
+* Notification count
+* Double tap to sleep
+
+[COLOR="#1976D2"][U]Quick settings[/U][/COLOR]
+* Custom header image (with wide variety of packs to choose from)
+* Weather tile customizatons (OmniJaws)
+* Vibrate on touch
+* QS tiles view customizatsion (Number of small QS tiles, rows and columns)
+* Settings shortcut
+* Tile edit icon
+* Advance QS easy toggle
+* MultiUser Switch
+* Expand Indicator
+
+[COLOR="#1976D2"][U]Blur Personalizations[/U][/COLOR]
+* Status bar blur
+* QS blur
+* Recent apps blur
+
+[COLOR="#1976D2"][U]Buttons[/U][/COLOR]
+* Power button settings (End call, Press power buttons twice for camera, Show arrow keys while typing, Long press for torch, Automatically turn torch off)
+* Home button settings (Wake device, Answer call, Long press actions, Double tap actions)
+* Volume buttons (Wake device, Control playback, Control ringtone volume, Keyboard cursor control, Reorient when screen is rotated)
+
+[COLOR="#1976D2"][U]Recents apps[/U][/COLOR]
+* Immersive recents
+* Clear all FAB
+* Clear all FAB location
+* Grid style recents
+* Show memory bar
+
+[COLOR="#1976D2"][U]Navigation bar[/U][/COLOR]
+* Navbar on/off
+* Smart bar/ fling (in rpogress)
+* Navbar dimensions
+* Pulse
+
+[COLOR="#1976D2"][U]Lock screen[/U][/COLOR]
+* Media cover art toggle
+* Eable Power menu on lock screen toggle
+* Allow accessing Quick settings toggle
+* Status bar display toggle
+* Show clock & date toggle
+* Show lock screen alarm
+* Display weather on lockscreen
+* Double tap anywhere to sleep
+
+[COLOR="#1976D2"][U]Power menu[/U][/COLOR]
+* Reboot
+* Screenshot
+* Airplane mode
+* User switcher
+* Sound panel
+
+[COLOR="#1976D2"][U]Animatios[/U][/COLOR]
+* Sysytem animations
+* Toast animation
+* List view animation
+* List view interpolator
+* QS tile animation
+* QS tile animation duration
+* QS tile animation interpolator
+* Fancy QS animation
+* Disable animations
+
+[COLOR="#1976D2"][U]Colt Continues[/U][/COLOR]
+* Dashboard optons (Column settings, Suggestions, Conditions, Summaries)
+* Gesture (Swipte to screenshot, 4G icon insted of LTE)
+
+[COLOR="#1976D2"][U]About ColtOS[/U][/COLOR]
+* Changelog
+* Share ColtOS
+* Github
+* Google+
+* ColtOS Devices and Maintainers
+
+[/CODE]
+
+
+[SIZE="5"]Credit and Thanks:[/SIZE]
+[HIDE]
+
+We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of COLT but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
+
+That said, ColtOS team would like to THANK to....
+
+* [SIZE="3"]LineageOS/Cyanogenmod[/SIZE][/B] [URL]https://github.com/LineageOS[/URL]
+* [SIZE="3"]crDroid[/SIZE][/B] [URL]https://github.com/crdroidandroid[/URL]
+* [SIZE="3"]DirtyUnicorns[/SIZE][/B] [URL]https://github.com/DirtyUnicorns[/URL]
+* [SIZE="3"]ViperOS[/SIZE][/B] [URL]https://github.com/ViperOS-Project[/URL]
+* [SIZE="3"]ResurrectionRemix[/SIZE][/B] [URL]https://github.com/ResurrectionRemix[/URL]
+* [SIZE="3"]GZR-ValidusOS[/SIZE][/B] [URL]https://github.com/GZR-ValidusOS[/URL]
+* [SIZE="3"]ParanoidAndroid[/SIZE][/B] [URL]https://github.com/AOSPA[/URL]
+* [SIZE="3"]AOSiP[/SIZE][/B] [URL]https://github.com/AOSIP[/URL]
+* [SIZE="3"]TeamSubstratum (Theme Engine)[/SIZE][/B] [URL]https://github.com/Substratum[/URL]
+* [SIZE="3"]Pure Nexus[/SIZE][/B] [URL]https://github.com/PureNexusProject[/URL]
+* [SIZE="3"]OmniROM[/SIZE][/B] [URL]https://github.com/omnirom[/URL]
+
+**[B][SIZE="3"][COLOR="SeaGreen"]If we have left someone or some team out, we apologize and please PM us[/COLOR][/SIZE][/B]**[/HIDE]
+
+and Our own #TeamColt
+@Rakesh.Batra : Lead Developer and Founder of ColtOS
+@nitin.chobhe(Project Contibutor/Device Maintainer)
+@Roger.T(Graphics Designer)
+@HAKrBOY(Graphics Designer) ColtOS is beautiful just because of these two Guys:)
+@Nik_ (Project Contibutor/Device Maintainer)
+@CheckYourScreen (Project Contibutor/Device Maintainer)
+@meet1811 (The Saviour/Moderator)
+@Frozen_Lemon (Motivator/Tester:Made Default Ringtone)
+@AnupamDMoran (Motivator/Tester)
+@srvroxstar (Motivator/Tester)
+@AanishP (Tester)
+@Ashroo (TeamMember)
+@Shubhojit (Device Maintainer)
+
+
+[SIZE="5"]Download Links:[/SIZE]
+
+[B][SIZE="3"]ROM - [/SIZE][/B] [URL]<ROM downlaod link>[/URL]
+
+[B][SIZE="3"]GAPPS - [/SIZE][/B][URL]<Gapps link>[/URL]
+
+
+[SIZE="5"]Other Links:[/SIZE]
+
+[B]ROM Source[/B] - [url]https://github.com/ColtOS[/url]
+
+[B]G+ community[/B] - [url]https://plus.google.com/u/0/communities/102067248475500399675[/url]
+
+[B]Faceboot page[/B] - [url]https://www.facebook.com/Colt0s/[/url]
+
+
+[SIZE="5"]Kernel Source:[/SIZE]
+[B]Kernel Source[/B] - [url]<Kernel source link>[/url]

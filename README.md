@@ -1,22 +1,31 @@
-<p align="center">
-<img src="https://github.com/ColtOS/manifest/raw/cos7.x/colt_logo.png" > 
-</p>
+ColtOS : Let's Get Started :)
+=============================
 
-Colt-OS Project
+![ColtOS](https://github.com/ColtOS/manifest/blob/cos7.x/colt_logo.gif)
+
+ColtOS Project
 ===============
 ColtOS Project is a team of learners and based on lineageos with some customizations.
 We have cherry-picked the features from many 
 other roms/projects and we are very thankfull to them!!
 
+ColtOS on Social Media
+======================
+[![](https://i.imgsafe.org/67ed4ee248.png)](https://plus.google.com/u/2/communities/102067248475500399675)
 
 -------
 * [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)
-* [**crDroid**](https://github.com/crdroidandroid)
+* [**crDroid Android**](https://github.com/crdroidandroid)
 * [**DirtyUnicorns**](https://github.com/DirtyUnicorns)
 * [**AOSiP**](https://github.com/AOSIP)
 * [**TeamSubstratum (Theme Engine)**](https://github.com/Substratum)
 * [**Pure Nexus**](https://github.com/PureNexusProject)
-
+* [**ViperOS**](https://github.com/ViperOS-Project)
+* [**ResurrectionRemix**](https://github.com/ResurrectionRemix)
+* [**GZR-ValidusOS**](https://github.com/GZR-ValidusOS)
+* [**ParanoidAndroid**](https://github.com/AOSPA)
+* [**OmniROM**](https://github.com/omnirom/)
+-------
 
 How to Build?
 -------------

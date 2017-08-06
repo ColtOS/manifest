@@ -31,8 +31,8 @@
 
 <!-- Omni from Colt -->
 <project path="packages/apps/OmniStyle" name="ColtOS/android_packages_apps_OmniStyle" remote="coltos" />
-<project path="packages/apps/SnapdragonGallery" name="ColtOS/android_packages_apps_SnapdragonGallery" remote="coltos" />
-<project path="packages/apps/SnapdragonCamera" name="ColtOS/android_packages_apps_SnapdragonCamera" remote="coltos" />
+<!--project path="packages/apps/SnapdragonGallery" name="ColtOS/android_packages_apps_SnapdragonGallery" remote="coltos" /-->
+<!--project path="packages/apps/SnapdragonCamera" name="ColtOS/android_packages_apps_SnapdragonCamera" remote="coltos" /-->
 
 
 <!-- Colt Wallpapers  -->

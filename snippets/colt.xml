@@ -9,7 +9,7 @@
 
 </project>
 
-<!--project path="frameworks/base" name="ColtOS/android_frameworks_base" remote="coltos" /-->
+<project path="frameworks/base" name="ColtOS/android_frameworks_base" remote="coltos" />
 <project path="frameworks/native" name="ColtOS/android_frameworks_native" remote="coltos" />
 <project path="packages/apps/Contacts" name="ColtOS/android_packages_apps_Contacts" remote="coltos" />
 <project path="packages/apps/ContactsCommon" name="ColtOS/android_packages_apps_ContactsCommon" remote="coltos" />
@@ -17,11 +17,11 @@
 <project path="packages/apps/ExactCalculator" name="ColtOS/android_packages_apps_ExactCalculator" remote="coltos" />
 <project path="packages/apps/PackageInstaller" name="ColtOS/android_packages_apps_PackageInstaller" remote="coltos" />
 <project path="packages/apps/PhoneCommon" name="ColtOS/android_packages_apps_PhoneCommon" remote="coltos" />
-<!--project path="packages/apps/Settings" name="ColtOS/android_packages_apps_Settings" remote="coltos" /-->
+<project path="packages/apps/Settings" name="ColtOS/android_packages_apps_Settings" remote="coltos" />
 <project path="system/sepolicy" name="ColtOS/android_system_sepolicy" remote="coltos" />
 <project path="vendor/cm" name="ColtOS/android_vendor_colt" remote="coltos" />
 <project path="packages/apps/SetupWizard" name="ColtOS/Colt_SetupWizard" remote="coltos" />
-<!--project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" /-->
+<project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" />
 <project path="packages/apps/CMParts" name="ColtOS/android_packages_apps_CMParts" remote="coltos" />
 <project path="frameworks/support" name="ColtOS/android_frameworks_support" remote="coltos" />
 
@@ -31,6 +31,7 @@
 
 <!-- Omni from Colt -->
 <project path="packages/apps/OmniStyle" name="ColtOS/android_packages_apps_OmniStyle" remote="coltos" />
+<project path="packages/apps/OmniSwitch" name="ColtOS/android_packages_apps_OmniSwitch" remote="coltos" />
 <!--project path="packages/apps/SnapdragonGallery" name="ColtOS/android_packages_apps_SnapdragonGallery" remote="coltos" /-->
 <!--project path="packages/apps/SnapdragonCamera" name="ColtOS/android_packages_apps_SnapdragonCamera" remote="coltos" /-->
 

@@ -11,7 +11,7 @@ other roms/projects and we are very thankfull to them!!
 
 ColtOS on Social Media
 ======================
-[![](https://i.imgsafe.org/67ed4ee248.png)](https://plus.google.com/u/2/communities/102067248475500399675)
+[![](https://i.imgsafe.org/67ed4ee248.png)](https://plus.google.com/u/2/communities/102067248475500399675)]
 
 -------
 * [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)

@@ -52,4 +52,7 @@
 <!-- Track OmniJaws -->
 <project path="packages/services/OmniJaws" name="ColtOS/android_packages_services_OmniJaws" remote="coltos" />
 
+<!-- SoundRecorder -->
+<project path="packages/apps/SoundRecorder" name="ColtOS/android_packages_apps_SoundRecorder" remote="coltos" />
+
 </manifest>

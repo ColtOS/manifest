@@ -24,6 +24,7 @@
 <project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" />
 <project path="packages/apps/CMParts" name="ColtOS/android_packages_apps_CMParts" remote="coltos" />
 <project path="frameworks/support" name="ColtOS/android_frameworks_support" remote="coltos" />
+<project path="packages/apps/DeskClock" name="ColtOS/android_packages_apps_DeskClock" remote="coltos" />
 
 <!-- DUI from Colt -->
 <project path="packages/apps/DUI" name="ColtOS/android_packages_apps_DUI" remote="coltos" />

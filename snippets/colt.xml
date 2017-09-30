@@ -11,6 +11,7 @@
 
 <project path="frameworks/base" name="ColtOS/android_frameworks_base" remote="coltos" />
 <project path="frameworks/native" name="ColtOS/android_frameworks_native" remote="coltos" />
+<project path="frameworks/av" name="ColtOS/android_frameworks_av" remote="coltos" />
 <project path="packages/apps/Contacts" name="ColtOS/android_packages_apps_Contacts" remote="coltos" />
 <project path="packages/apps/ContactsCommon" name="ColtOS/android_packages_apps_ContactsCommon" remote="coltos" />
 <project path="packages/apps/Dialer" name="ColtOS/android_packages_apps_Dialer" remote="coltos" />

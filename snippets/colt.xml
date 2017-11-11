@@ -20,6 +20,7 @@
 <project path="packages/apps/PhoneCommon" name="ColtOS/android_packages_apps_PhoneCommon" remote="coltos" />
 <project path="packages/apps/Settings" name="ColtOS/android_packages_apps_Settings" remote="coltos" />
 <project path="system/sepolicy" name="ColtOS/android_system_sepolicy" remote="coltos" />
+<project path="system/media" name="ColtOS/android_system_media" remote="coltos" />
 <project path="vendor/cm" name="ColtOS/android_vendor_colt" remote="coltos" />
 <project path="packages/apps/SetupWizard" name="ColtOS/Colt_SetupWizard" remote="coltos" />
 <project path="packages/apps/ColtCenter" name="ColtOS/android_packages_apps_ColtCenter" remote="coltos" />
